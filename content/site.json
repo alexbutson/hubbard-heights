@@ -1,0 +1,133 @@
+{
+  "settings": {
+    "tournament_signup_url": "https://www.unknowngolf.com/",
+    "golf_course_url": "https://www.brennangolf.com/",
+    "footer_copyright": "© 2025 Hubbard Heights Mens Golf Club. All Rights Reserved."
+  },
+  "hero": {
+    "title": "Hubbard Heights Men's Club",
+    "tagline": "2025 Interclub Champions",
+    "background_image": "https://static.wixstatic.com/media/45dff1_8c272dc9dbf54dce84daabc9283a5562~mv2.png/v1/fill/w_2400,h_1600,al_c,q_90,enc_avif,quality_auto/45dff1_8c272dc9dbf54dce84daabc9283a5562~mv2.png",
+    "logo": "https://static.wixstatic.com/media/a61af3_7ff69c7ce6a249609f4398c7480190c7~mv2.png"
+  },
+  "about": {
+    "body": "Joining the Hubbard Heights Men's Club allows you to take part in events that could earn you Pro Shop money simply for playing your normal weekend round with another club member. Live scoring on weekly and special events is kept on the **Unknown Golf** app, which is included in your membership fee. The app also keeps live, up to date money list earnings and player of the year points.\n\nWe have weekly club events from April through October and several team events against other clubs in the region. To qualify for our weekly events, simply sign up at tee off time on your app (Thursday, Friday, Saturday or Sunday), play the round with another club member, and input your score as you play.\n\nJoin today by visiting the Pro Shop at E. Gaynor Brennan Golf Course or clicking the button below.",
+    "image": "https://static.wixstatic.com/media/a61af3_1c4b6623bbaa48dc9c0799cccb9b5a6d~mv2_d_1920_1280_s_2.jpg/v1/fill/w_1200,h_800,al_c,q_85,enc_avif,quality_auto/a61af3_1c4b6623bbaa48dc9c0799cccb9b5a6d~mv2_d_1920_1280_s_2.jpg",
+    "trivia": "**The oldest golf club in Stamford.** The movie *Boomerang* (1947) featured many scenes on the grounds of Hubbard Heights Country Club, including views overlooking the 8th and 12th fairways."
+  },
+  "sponsors": [
+    {
+      "intro": "Printing costs incurred by the Men's Club have been generously donated by:",
+      "name": "MBA Graphics",
+      "logo": "https://static.wixstatic.com/media/45dff1_f01a061973f447b7b31177659a353274~mv2.jpg",
+      "contact_text": "Contact Miron Bajus for all your printing needs — (203) 658-3967",
+      "url": "http://www.mbagraphics.com"
+    },
+    {
+      "intro": "The costs associated with this website have been generously sponsored by:",
+      "name": "Bob Judge Insurance",
+      "logo": "https://static.wixstatic.com/media/a61af3_80b44dd08473406e886db9e371131a01~mv2.png",
+      "contact_text": "Contact Bob Judge for all your insurance needs — (203) 595-5080",
+      "url": ""
+    }
+  ],
+  "membership": [
+    {
+      "name": "Regular",
+      "subtitle": "",
+      "price": 95,
+      "features": [
+        "Official USGA Handicap Index",
+        "All 4 Major Events",
+        "Interclub Qualifier",
+        "Shoreline Qualifier",
+        "MGA Events access",
+        "Met Golfer Magazine",
+        "Weekly Events for Pro Shop $",
+        "Club Championship",
+        "HHMC Money List",
+        "End of Year Awards & Prizes"
+      ],
+      "paypal_button_id": ""
+    },
+    {
+      "name": "Senior",
+      "subtitle": "Age 62 and older",
+      "price": 75,
+      "features": [
+        "Official USGA Handicap Index",
+        "All 4 Major Events",
+        "Interclub Qualifier",
+        "Shoreline Qualifier",
+        "MGA Events access",
+        "Met Golfer Magazine",
+        "Weekly Events for Pro Shop $",
+        "Club Championship",
+        "HHMC Money List",
+        "End of Year Awards & Prizes"
+      ],
+      "paypal_button_id": ""
+    },
+    {
+      "name": "Associate",
+      "subtitle": "",
+      "price": 65,
+      "features": [
+        "Official USGA Handicap Index",
+        "All 4 Major Events",
+        "Interclub Qualifier",
+        "Shoreline Qualifier",
+        "MGA Events access",
+        "Met Golfer Magazine"
+      ],
+      "paypal_button_id": ""
+    },
+    {
+      "name": "Junior",
+      "subtitle": "Age 17 and younger",
+      "price": 40,
+      "features": [
+        "Official USGA Handicap Index",
+        "All 4 Major Events",
+        "Interclub Qualifier",
+        "Shoreline Qualifier",
+        "MGA Events access",
+        "Met Golfer Magazine",
+        "Weekly Events for Pro Shop $",
+        "Club Championship",
+        "HHMC Money List",
+        "End of Year Awards & Prizes"
+      ],
+      "paypal_button_id": ""
+    }
+  ],
+  "photos": [
+    {
+      "image": "https://static.wixstatic.com/media/45dff1_8c272dc9dbf54dce84daabc9283a5562~mv2.png/v1/fill/w_600,h_450,al_c,q_85,enc_avif,quality_auto/45dff1_8c272dc9dbf54dce84daabc9283a5562~mv2.png",
+      "caption": "2025 Interclub Champions"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/a61af3_d5649285e4204e8b89f81a9354f214d3~mv2_d_3000_2002_s_2.jpg/v1/fill/w_600,h_450,al_c,q_85,enc_avif,quality_auto/a61af3_d5649285e4204e8b89f81a9354f214d3~mv2_d_3000_2002_s_2.jpg",
+      "caption": "Golf"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/a61af3_cd6ba71f115b4604bca3e271b82212ba~mv2_d_1920_1280_s_2.jpg/v1/fill/w_600,h_450,al_c,q_85,enc_avif,quality_auto/a61af3_cd6ba71f115b4604bca3e271b82212ba~mv2_d_1920_1280_s_2.jpg",
+      "caption": "Golf"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/a61af3_73e254f9ea6c482cbb3284ebc958e926~mv2_d_6000_4000_s_4_2.jpg/v1/fill/w_600,h_450,al_c,q_85,enc_avif,quality_auto/a61af3_73e254f9ea6c482cbb3284ebc958e926~mv2_d_6000_4000_s_4_2.jpg",
+      "caption": "Golf course"
+    }
+  ],
+  "contact": {
+    "address": "451 Stillwater Rd, Stamford, CT 06902",
+    "phone": "(203) 286-3024",
+    "email": "mensclub@hubbardheights.com",
+    "form_endpoint": ""
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/HubbardHeightsMC",
+    "twitter": "https://twitter.com/hubbardheights",
+    "instagram": "https://www.instagram.com/hubbardheights/"
+  }
+}
